@@ -1,0 +1,4 @@
+TO Run gyro program, make sure cable connection and battery supply is on!
+Gyro X direction: forward negative, backward positive
+Gyro Y direction: left negative, right positive
+Gyro Z direction: clock: negative, counterclock: positive
